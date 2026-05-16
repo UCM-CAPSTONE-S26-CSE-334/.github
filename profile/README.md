@@ -1,12 +1,21 @@
-## Hi there 👋
+# Advancing STEM Education via AI-Generated Games
 
-<!--
+*Lawrence Livermore National Laboratory (LLNL)*
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📖 Abstract
+
+> Lawrence Livermore National Laboratory (LLNL) aims to contribute to the global effort of integrating artificial intelligence into STEM education, without compromising the **“productive struggle”** essential for student reasoning.
+> To address this, the team was tasked to develop a suite of interactive STEM games, hosted on a centralized web platform, to serve as educational experiences and foster in-depth, AI-assisted learning. The platform provides both educational engagement through these games and documentation of the team’s experiences, challenges, and learnings as they utilize AI-driven development workflows—empowering even non-technical students to learn STEM through game creation.
+> This project validated LLNL’s proposed **“learning-by-building”** framework, providing both a functional gaming suite and learning outcomes to contribute to a scalable roadmap for integrating AI into the STEM classroom.
+
+---
+
+### 👥 Project Team
+
+* **Abdurrahman Raza**
+*  **Daniel Ordaz**
+* **Tai Le**
+* **Bryanna Gonzalez**
+* **Matthew Kum**
