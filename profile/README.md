@@ -19,3 +19,23 @@
 * **Tai Le**
 * **Bryanna Gonzalez**
 * **Matthew Kum**
+
+---
+
+### Deployed Apps
+
+Website: https://s26-cse-334.onrender.com/
+
+Agrivoltaic Farm Simulator: https://agrivoltaic-farm-simulator.onrender.com/
+
+Calculus Combine: https://s26-cse-334-7.onrender.com/
+
+Ecosystem Simulation: https://s26-cse-334-10.onrender.com/
+
+Growth Function Fight Club: https://growthfunctionfightclub.onrender.com/
+
+Polynomial Physics: https://s26-cse-334.onrender.com/gamePage?slug=polynomial-physics
+
+Terminal Velocity: https://s26-cse-334.onrender.com/gamePage?slug=terminal-velocity
+
+Vision for Newbies: https://vision-for-newbies.onrender.com/
